@@ -5,8 +5,11 @@
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/app" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/venv-3-7" />
+      <excludeFolder url="file://$MODULE_DIR$/venv-3.7" />
+      <excludeFolder url="file://$MODULE_DIR$/venv_3_7" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.8 (recepie-app-api)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (recepie-app-api)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
